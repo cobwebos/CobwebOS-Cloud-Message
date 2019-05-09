@@ -1,5 +1,5 @@
-# cobwebos-message
-cobwebos-message  base on java、OSGI、kafka、zookeeper
+# CobwebOS-Cloud-Message
+CobwebOS-Cloud-Message  base on java、OSGI、kafka、zookeeper
 
 release download 
 链接：https://pan.baidu.com/s/15i52IM3VRMl_RPIdgEjICQ 
